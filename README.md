@@ -1,4 +1,6 @@
-# my-first-vue-cli-app
+# La belle vue
+
+web app make with Vue.JS
 
 ## Project setup
 ```
